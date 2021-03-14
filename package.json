@@ -1,0 +1,25 @@
+{
+  "name": "review-bot",
+  "version": "1.0.0",
+  "description": "A advanced review command",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "discord.js": "^12.5.1",
+    "moment": "^2.29.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/AllisonGaw/AllisonGaw-SimpleReviewBot.git"
+  },
+  "author": "Allison#2003",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AllisonGaw/AllisonGaw-SimpleReviewBot/issues"
+  },
+  "homepage": "https://github.com/AllisonGaw/AllisonGaw-SimpleReviewBot#readme"
+}

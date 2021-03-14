@@ -1,0 +1,16 @@
+{
+    "BotData": {
+        "token": "TOKEN HERE",
+        "prefix": "!"
+    },
+    "EmbedData": {
+        "MadeBy": "Developed By Allison#2003",
+        "GitHubHelp": "http://AllisonGaw/SimpleReviewBot"
+    },
+    "Status": {
+        "status-message": "Status Message"
+    },
+    "reviews": {
+        "reviewchannel": "CHANNELID"
+    }
+}
