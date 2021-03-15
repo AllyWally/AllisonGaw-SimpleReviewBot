@@ -228,7 +228,7 @@ module.exports = {
                             
                               message.channel.send(em)
                               const chan = client.channels.cache.get(`${config.reviews.reviewchannel}`)
-                              chan.send(emb)
+                              chan.send(em)
                         })
                     }
                 })
